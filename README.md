@@ -1,7 +1,6 @@
 # Segway
 Building a segway with 6v DC motor and MPU6050 
 
-For your GitHub README, I'll structure it to clearly outline your project, including the challenges faced and how they were overcome, as well as details about the two versions of your Segway project. This structured approach will help potential collaborators, users, or interested parties understand the scope of your project, the technical hurdles you navigated, and the iterative progress you made.
 
 ---
 
