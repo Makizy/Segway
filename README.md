@@ -14,7 +14,7 @@ This repository contains all the code and documentation for our microelectronics
 ## Key Components
 
 - Arduino Uno
-- MPU6050 Gyroscopic Sensor
+- MPU6050 
 - 6V DC Motor
 
 ## Challenges and Solutions
@@ -68,6 +68,4 @@ The Segway project not only tested our engineering and problem-solving skills bu
 
 We invite you to explore our project files, code, and documentation to learn more about our journey from concept to completion. Your feedback and contributions are welcome as we continue to refine and improve our Segway prototype.
 
----
 
-Feel free to adapt or expand upon this README template to better fit the specifics of your project or to include any additional information you deem important.
